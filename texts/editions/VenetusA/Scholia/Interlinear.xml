@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text n="msAil">
+    <body>
+
+
+
+        <div n="urn:cts:greekLit:tlg5026.msAil.hmt:13.NNN" type="scholion">
+            <div type="lemma">
+                <p>Lemma Here</p>
+            </div>
+            <div type="ref">
+                <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.1</p>
+            </div>
+            <div type="comment">
+                <p> Scholion Text Here </p>
+            </div>
+        </div>
+
+
+    </body>
+
+</text>
