@@ -2,8 +2,10 @@ URN,ImageReference
 urn:cts:greekLit:tlg5026.msA:13.0004,"urn:cite:hmt:chsimg.VA164RN-0335:0.6286,0.1878,0.1902,0.0488"
 urn:cts:greekLit:tlg5026.msA:13.0008,"urn:cite:hmt:chsimg.VA164RN-0335:0.6326,0.568,0.2032,0.0639"
 urn:cts:greekLit:tlg5026.msA:13.0012,"urn:cite:hmt:chsimg.VA164RN-0335:0.2703,0.7333,0.4965,0.0255"
-urn:cts:greekLit:tlg5026.msA:13.0028,urn:cts:greekLit:tlg5026.msAext:13.0003,"urn:cite:hmt:chsimg.VA164VN-0666:0.1341,0.2532,0.0621,0.015"
-urn:cts:greekLit:tlg5026.msAext:13.0007,urn:cts:greekLit:tlg5026.msA:13.0002,"urn:cite:hmt:chsimg.VA164RN-0335:0.1792,0.0909,0.6547,0.0796"
+urn:cts:greekLit:tlg5026.msA:13.0028,
+urn:cts:greekLit:tlg5026.msAext:13.0003,"urn:cite:hmt:chsimg.VA164VN-0666:0.1341,0.2532,0.0621,0.015"
+urn:cts:greekLit:tlg5026.msAext:13.0007,
+urn:cts:greekLit:tlg5026.msA:13.0002,"urn:cite:hmt:chsimg.VA164RN-0335:0.1792,0.0909,0.6547,0.0796"
 urn:cts:greekLit:tlg5026.msA:13.0005,"urn:cite:hmt:chsimg.VA164RN-0335:0.6326,0.2322,0.1962,0.0954"
 urn:cts:greekLit:tlg5026.msA:13.0009,"urn:cite:hmt:chsimg.VA164RN-0335:0.1702,0.6273,0.6577,0.0887"
 urn:cts:greekLit:tlg5026.msA:13.0013,"urn:cite:hmt:chsimg.VA164RN-0335:0.1742,0.7483,0.6717,0.0218"
