@@ -1,26 +1,233 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <text n="msAim">
-    <body>
-        <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
-            <div type="lemma">
-                <p>Lemma Here</p>
-            </div>
-            <div type="ref">
-                <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
-            </div>
-            <div type="comment">
-                <p>
-                    Scholion text here.
-                </p>
-            </div>
-        </div>
-        
-        
-        
-       
-        
-        
-        
-        
-    </body>
+  <body>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.001" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.009</p>
+      </div>
+      <div type="comment">
+        <p>
+          γραφεται καὶ <rs type="waw">ἀρήξειν</rs>
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.002" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.011</p>
+      </div>
+      <div type="comment">
+        <p>
+          οτι <q>θαυμάζων</q> ἀντι <rs type="waw">του θεώμενος</rs>
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.003" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.025</p>
+      </div>
+      <div type="comment">
+        <p>
+          οτι ἐκ τῶν συμφραζομένων τὸ <q>γέντο</q> ἐλαβεν σημαίνει.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.NNN" type="scholion">
+      <div type="lemma">
+        <p>Lemma Here</p>
+      </div>
+      <div type="ref">
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+      </div>
+      <div type="comment">
+        <p>
+          Scholion text here.
+        </p>
+      </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+  </body>
 </text> 
