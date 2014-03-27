@@ -2,7 +2,7 @@ URN,ImageReference
 urn:cts:greekLit:tlg5026.msA:13.0004,"urn:cite:hmt:chsimg.VA164RN-0335:0.6286,0.1878,0.1902,0.0488"
 urn:cts:greekLit:tlg5026.msA:13.0008,"urn:cite:hmt:chsimg.VA164RN-0335:0.6326,0.568,0.2032,0.0639"
 urn:cts:greekLit:tlg5026.msA:13.0012,"urn:cite:hmt:chsimg.VA164RN-0335:0.2703,0.7333,0.4965,0.0255"
-urn:cts:greekLit:tlg5026.msA:13.0028,
+urn:cts:greekLit:tlg5026.msA:13.0028,"urn:cite:hmt:vaimg.VA165RN-0336@0.2052,0.1292,0.6216,0.0248"
 urn:cts:greekLit:tlg5026.msAext:13.0003,"urn:cite:hmt:chsimg.VA164VN-0666:0.1341,0.2532,0.0621,0.015"
 urn:cts:greekLit:tlg5026.msAext:13.0007,
 urn:cts:greekLit:tlg5026.msA:13.0002,"urn:cite:hmt:chsimg.VA164RN-0335:0.1792,0.0909,0.6547,0.0796"
@@ -23,7 +23,7 @@ urn:cts:greekLit:tlg5026.msAim:13.0007,
 urn:cts:greekLit:tlg5026.msA:13.0015,"urn:cite:hmt:chsimg.VA164RN-0335:0.1732,0.7859,0.6667,0.0533"
 urn:cts:greekLit:tlg5026.msA:13.0019,"urn:cite:hmt:chsimg.VA164VN-0666:0.2142,0.1488,0.7077,0.2975"
 urn:cts:greekLit:tlg5026.msA:13.0023,"urn:cite:hmt:chsimg.VA164VN-0666:0.2082,0.5815,0.2172,0.0736"
-urn:cts:greekLit:tlg5026.msA:13.0027,
+urn:cts:greekLit:tlg5026.msA:13.0027,"urn:cite:hmt:vaimg.VA165RN-0336@0.2052,0.1089,0.6096,0.0353"
 urn:cts:greekLit:tlg5026.msAil:13.0004,
 urn:cts:greekLit:tlg5026.msAil:13.0008,
 urn:cts:greekLit:tlg5026.msAil:13.0012,
@@ -39,14 +39,14 @@ urn:cts:greekLit:tlg5026.msAext:13.0005,"urn:cite:hmt:chsimg.VA164VN-0666:0.1261
 urn:cts:greekLit:tlg5026.msAext:13.0009,
 urn:cts:greekLit:tlg5026.msA:13.0017,"urn:cite:hmt:chsimg.VA164VN-0666:0.2202,0.115,0.6897,0.0285"
 urn:cts:greekLit:tlg5026.msA:13.0021,"urn:cite:hmt:chsimg.VA164VN-0666:0.2132,0.4628,0.2112,0.0526"
-urn:cts:greekLit:tlg5026.msA:13.0025,
+urn:cts:greekLit:tlg5026.msA:13.0025,"urn:cite:hmt:vaimg.VA165RN-0336@0.1872,0.0849,0.4685,0.0338"
 urn:cts:greekLit:tlg5026.msAil:13.0002,
 urn:cts:greekLit:tlg5026.msAil:13.0006,
 urn:cts:greekLit:tlg5026.msAil:13.0010,
 urn:cts:greekLit:tlg5026.msAil:13.0014,
 urn:cts:greekLit:tlg5026.msA:13.0018,"urn:cite:hmt:chsimg.VA164VN-0666:0.2192,0.136,0.6947,0.027"
 urn:cts:greekLit:tlg5026.msA:13.0022,"urn:cite:hmt:chsimg.VA164VN-0666:0.2052,0.5086,0.2392,0.0796"
-urn:cts:greekLit:tlg5026.msA:13.0026,
+urn:cts:greekLit:tlg5026.msA:13.0026,"urn:cite:hmt:vaimg.VA165RN-0336@0.1922,0.0872,0.6266,0.0451"
 urn:cts:greekLit:tlg5026.msAil:13.0003,
 urn:cts:greekLit:tlg5026.msAil:13.0007,
 urn:cts:greekLit:tlg5026.msAil:13.0011,
@@ -54,7 +54,7 @@ urn:cts:greekLit:tlg5026.msAil:13.0015,
 urn:cts:greekLit:tlg5026.msAim:13.0002,"urn:cite:hmt:chsimg.VA164RN-0335:0.5926,0.3982,0.042,0.0398"
 urn:cts:greekLit:tlg5026.msAim:13.0006,"urn:cite:hmt:chsimg.VA164VN-0666:0.4164,0.6875,0.0531,0.0458"
 urn:cts:greekLit:tlg5026.msAim:13.0010,
-urn:cts:greekLit:tlg5026.msA:13.0029,
+urn:cts:greekLit:tlg5026.msA:13.0029,"urn:cite:hmt:vaimg.VA165RN-0336@0.1882,0.1427,0.6286,0.0518"
 urn:cts:greekLit:tlg5026.msAint:13.0001,"urn:cite:hmt:chsimg.VA164RN-0335:0.1151,0.2096,0.0641,0.0526"
 urn:cts:greekLit:tlg5026.msAint:13.0005,"urn:cite:hmt:chsimg.VA164RN-0335:0.1141,0.4155,0.0561,0.0421"
 urn:cts:greekLit:tlg5026.msAint:13.0009,
@@ -82,3 +82,10 @@ urn:cts:greekLit:tlg5026.msAint:13.0004,"urn:cite:hmt:chsimg.VA164RN-0335:0.1261
 urn:cts:greekLit:tlg5026.msAint:13.0008,"urn:cite:hmt:chsimg.VA164VN-0666:0.8509,0.5447,0.048,0.0173"
 urn:cts:greekLit:tlg5026.msAil:13.0004,
 urn:cts:greekLit:tlg5026.msAil:13.0008,
+urn:cts:greekLit:tlg5026.msA:13.0030, "urn:cite:hmt:vaimg.VA165RN-0336@0.6316,0.3501,0.1692,0.0654"
+urn:cts:greekLit:tlg5026.msA:13.0031, "urn:cite:hmt:vaimg.VA165RN-0336@0.6276,0.4125,0.1722,0.0631"
+urn:cts:greekLit:tlg5026.msA:13.0032, "urn:cite:hmt:vaimg.VA165RN-0336@0.1612,0.4576,0.6456,0.2607"
+urn:cts:greekLit:tlg5026.msA:13.0033, "urn:cite:hmt:vaimg.VA165RN-0336@0.1562,0.7002,0.6577,0.0421"
+urn:cts:greekLit:tlg5026.msA:13.0034, "urn:cite:hmt:vaimg.VA165RN-0336@0.1662,0.7288,0.6356,0.0361"
+urn:cts:greekLit:tlg5026.msA:13.0035, "urn:cite:hmt:vaimg.VA165RN-0336@0.1632,0.7491,0.6507,0.0601"
+urn:cts:greekLit:tlg5026.msA:13.0036, "urn:cite:hmt:vaimg.VA165RN-0336@0.1512,0.7934,0.6456,0.0353"
