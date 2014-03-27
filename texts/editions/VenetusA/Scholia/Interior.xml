@@ -72,7 +72,7 @@
         <p>Lemma Here</p>
       </div>
       <div type="ref">
-        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.NNN</p>
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.016</p>
       </div>
       <div type="comment">
         <p>
@@ -80,29 +80,29 @@
         </p>
       </div>
     </div>    
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13." type="scholion">
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.007" type="scholion">
       <div type="lemma">
         <p>Lemma Here</p>
       </div>
       <div type="ref">
-        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.NNN</p>
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.028</p>
       </div>
       <div type="comment">
         <p>
-          Scholion text   
+          στικτεον έπι <rs type="waw">τὸ ἄνακτα</rs>.
         </p>
       </div>
     </div>    
-    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13." type="scholion">
+    <div n="urn:cts:greekLit:tlg5026.msAint.hmt:13.008" type="scholion">
       <div type="lemma">
         <p>Lemma Here</p>
       </div>
       <div type="ref">
-        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.NNN</p>
+        <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.042</p>
       </div>
       <div type="comment">
         <p>
-          Scholion text   
+          Γραφεται <rs type="waw">αρίστους</rs>
         </p>
       </div>
     </div>    
