@@ -355,66 +355,73 @@
                             <p>Εἰσάμενος <persName n="urn:cite:hmt:pers.pers74">κάλχαντι</persName> </p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.045</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.045</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι <q>τὸ εἰσάμενος</q> πολλὰ σημαίνει· νῦν μὲν ὁμοιωθείς· ἐν ἄλλοις δὲ <cit><q>και ρ’ ἐπιεισαμενή</q><ref>Φ.424</ref></cit>.
                                 ἐφορμήσασα· <cit><q>εἴσατο δ΄ὡς ὅ τε ῥινον</q><ref>ε.281</ref></cit>. Άντι του ἐφάνη.</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.025" type="scholion">
                         <div type="lemma">
-                            <p>Lemma Here</p>
+                            <p>ἕξουσιν γὰρ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.051</p>
                         </div>
                         <div type="comment">
-                            <p>Text Here</p>
+                            <p><persName n="urn:cite:hmt:pers.pers21">ἀριστοφάνης</persName> <rs type="waw">σχήσουσιν</rs> ὁμόιως τῷ 
+                                <cit><q>γὰρ μενέτ' οὔτοι δηρον ἐμὲ σχήσουσιν <rs type="ethnic" n="urn:cite:hmt:place.place96">ἀχαιοί</rs></q><ref>N.151</ref></cit></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.026" type="scholion">
                         <div type="lemma">
-                            <p>Lemma Here</p>
+                            <p>περιδείδια</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:13.052</p>
                         </div>
                         <div type="comment">
-                            <p>Text Here</p>
+                            <p>ἔφαμεν ὅτι ἡ <rs type="waw">περί</rs> οὐκ αναστρέφεται ὅτε σημαντικῆ, ὑπάρχει του περισσος</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.027" type="scholion">
                         <div type="lemma">
-                            <p>Lemma Here</p>
+                            <p>ῄ̔ ρ'ὅ δ'ὁ λυσσωδης</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.053</p>
                         </div>
                         <div type="comment">
-                            <p>Text Here</p>
+                            <p>δοτικη ὅτι ἄρθρου ἐπιῤῥηματικῆς δὲ ἔχεται συντάξεως. τὸ δὲ ἀνταποδοτικον ἔστιν αὐτοῦ 
+                                <cit><q>τῇ ἰ̈́μεν ῆ κεν δή σὺ κελαινεφες</q><ref>Ο.046</ref></cit>, <cit><q>τῇ γὰρ ἔχ'ἥ ρα πολὺ πλεῖσται</q></cit><ref>Ο.448</ref></p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.028" type="scholion">
                         <div type="lemma">
-                            <p>Lemma Here</p>
+                            <p>γῦια δ'ἔθηκεν ἐλαφρα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.061</p>
                         </div>
                         <div type="comment">
-                            <p>Text Here</p>
+                            <p>ὁ ἀστερίσκος ὅτι νῦν ὑγιῶς κεῖται ὁ στίχος. ἐπι δὲ <persName n="urn:cite:hmt:pers.pers118">ὁδυσσεος</persName> κατα τον ἐπι <persName n="urn:cite:hmt:pers.pers158">πατρόκλωι</persName> αγῶνα οὐκέτι</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.029" type="scholion">
                         <div type="lemma">
-                            <p>Lemma Here</p>
+                            <p>περιμήκεος ἀρθεὶς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.NNN</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.063</p>
                         </div>
                         <div type="comment">
-                            <p>Text Here</p>
+                            <p><rs type="waw">περιμήκεος</rs>, ὡς <persName n="urn:cite:hmt:pers.pers215">διομήδεος</persName> 
+                                τὰ γὰρ εἰς <rs type="waw">η̅ς̅</rs> σύνθετα παρ οὐδέτερα γενόμενα τὰ εἰς <rs type="waw">ο̅ς̅</rs>
+                                τὸ η̅ παραληγόμενα βαρύνεσθαι θέλει ὥσπερ ἔχει παρα <rs type="waw">τὸ κῆτος</rs> 
+                                <rs type="waw">τὸ μεγακήτης</rs>, <rs type="waw">ῆθος</rs> <rs type="waw">κακοηθης</rs>,
+                                δι ὅ τ ἄλ <rs type="waw">λαθικηδὴς</rs> <rs type="waw">οἴνοπληθης</rs> ὀξυνόμενα παρα ῥήματα 
+                                φαμεν συντεθῆσθαι <rs type="waw">τὸ κήδω</rs> καὶ <rs type="waw">τὸ πλήθω</rs></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:13.NNN" type="scholion">
